@@ -32,25 +32,18 @@ The 30 July 2023 version of this document replaces all previous versions of Proj
 
 ## Qualification-level conditions
 
-### Condition Project1 – Compliance with content and assessment requirements
-{: #c1}
+### Condition Project1 – Compliance with content and assessment requirements{: #c1}
 
-Project1.1
-{: #c1_1}
+Project1.1{: #c1_1}
 : In respect of each project qualification which it makes available, an awarding organisation must comply with any requirements, and have regard to any guidance, in relation to content and assessment which may be published by Ofqual and revised from time to time.
 
-### Condition Project2 – Titling
-{: #c2}
+### Condition Project2 – Titling{: #c2}
 
-Project2.1
-{: #c2_1}
+Project2.1{: #c2_1}
 : An awarding organisation must ensure that the title on the Register of each project qualification which it makes available includes one of the following descriptions, as appropriate –
-1. for level 1 qualifications, Foundation,
-{: #c2_1_a}
-1. for level 2 qualifications, Higher, or
-{: #c2_1_b}
-1. for level 3 qualifications, Extended.
-{: #c2_1_c}
+1. for level 1 qualifications, Foundation,{: #c2_1_a}
+1. for level 2 qualifications, Higher, or{: #c2_1_b}
+1. for level 3 qualifications, Extended.{: #c2_1_c}
 
 ### Condition Project3 – Standard setting
 

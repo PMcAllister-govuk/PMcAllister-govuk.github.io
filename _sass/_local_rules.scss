@@ -9,6 +9,7 @@ ul {
   list-style-position: inside !important;
   margin-top: 1.2em !important;
   margin-bottom: 1.2em !important;
+  list-style-type: disc !important;
 }
 
 ol {
@@ -17,22 +18,19 @@ ol {
   list-style-position: inside;
   margin-top: 1.2em !important;
   margin-bottom: 1.2em !important;
-}
-
-ul {
-  list-style-type: disc !important;
-}
-
-ol {
   list-style-type: lower-alpha !important;
 }
 
 ol > li > ol {
   list-style-type: lower-roman !important;
+  margin-top: 0.8em !important;
+  margin-bottom: 0.8em !important;
 }
 
 ol > li > ol > li > ol {
   list-style-type: decimal !important;
+  margin-top: 0.8em !important;
+  margin-bottom: 0.8em !important;
 }
 
 dt {

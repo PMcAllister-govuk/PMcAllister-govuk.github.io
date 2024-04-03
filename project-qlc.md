@@ -57,20 +57,9 @@ Project3.3
 1. the Level of Demand of the assessments for that qualification,
 1. the level of attainment demonstrated in those assessments by an appropriately representative sample of Learners taking that qualification,
 1. the level of attainment demonstrated by Learners taking that qualification in a -
-  1. prior assessment (which was not for that qualification), whether or not that assessment was for a regulated qualification, or
-  1. prior qualification, whether or not that qualification was a regulated qualification, and
-1. the level of attainment demonstrated by Learners who have previously been awarded the qualification.
-
----
-
-1. the Level of Demand of the assessments for that qualification,
-1. the level of attainment demonstrated in those assessments by an appropriately representative sample of Learners taking that qualification,
-1. the level of attainment demonstrated by Learners taking that qualification in a -
    1. prior assessment (which was not for that qualification), whether or not that assessment was for a regulated qualification, or
    1. prior qualification, whether or not that qualification was a regulated qualification, and
 1. the level of attainment demonstrated by Learners who have previously been awarded the qualification
-
----
 
 ### Condition Project8 – Review of moderation
 
@@ -96,5 +85,9 @@ Until such date as is specified in, or determined under, any notice in writing p
 > 
 > 1. marks and (where appropriate) results to be updated promptly to take into account any change in the outcome of Moderation,
 > 1. marks and (where appropriate) results to be updated promptly to correct the effect of any Marking Error notified to the Centre in accordance with this condition, and
+>   1. Subclause test
+>     1. Subclause test
 > 1. reasonable steps to be taken to identify any other assessment, in relation to which there has been a similar error and to update marks and (where appropriate) results promptly to correct the effect of any error which is identified,
+>    1. Subclause test
+>      1. Subclause test
 > provided that a Learner's result shall not be updated so as to lower that result.

@@ -21,6 +21,10 @@ ol {
   list-style-type: lower-alpha !important;
 }
 
+li {
+  margin-bottom: 0.4em !important;
+}
+
 ol > li > ol {
   list-style-type: lower-roman !important;
   margin-top: 0.8em !important;

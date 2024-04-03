@@ -8,6 +8,7 @@ ul {
   padding-left: -1.2em;
   list-style-position: inside !important;
   margin-top: 1.2em !important;
+  margin-bottom: 1.2em !important;
 }
 
 ol {
@@ -15,22 +16,23 @@ ol {
   padding-left: -1.2em;
   list-style-position: inside;
   margin-top: 1.2em !important;
+  margin-bottom: 1.2em !important;
 }
 
 ul {
-  list-style-type: disc;
+  list-style-type: disc !important;
 }
 
 ol {
-  list-style-type: lower-alpha;
+  list-style-type: lower-alpha !important;
 }
 
 ol > li > ol {
-  list-style-type: lower-roman;
+  list-style-type: lower-roman !important;
 }
 
 ol > li > ol > li > ol {
-  list-style-type: decimal;
+  list-style-type: decimal !important;
 }
 
 dt {

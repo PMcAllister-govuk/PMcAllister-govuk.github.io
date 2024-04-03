@@ -1,0 +1,45 @@
+// Lists
+// ==========================================================================
+
+ul {
+    list-style-type: disc;}
+ol {
+  list-style-type: decimal;
+  padding-left: 1.8em;
+}
+
+/* Set the second layer of list items to a decimal */
+ol > li > ol {
+    list-style-type: decimal;
+}
+
+/* Set the third layer of list items to lowercase alphabetic */
+ol > li > ol > li > ol {
+    list-style-type: lower-alpha;
+}
+
+
+.list {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.list li {
+  margin-bottom: 5px;
+}
+
+// Bulleted lists
+.list-bullet {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+// Numbered lists
+.list-number {
+  list-style-type: decimal;
+  padding-left: 20px;
+
+  @include ie-lte(7) {
+    padding-left: 28px;
+  }
+}

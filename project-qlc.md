@@ -2,6 +2,9 @@
 title: Project qualification-level conditions
 subtitle: These regulations apply to all awarding organisations offering project qualifications.
 ---
+
+{::options list_indent="2" /}
+
 # Project qualification-level conditions
 
 ## Regulatory scope
@@ -88,3 +91,12 @@ Until such date as is specified in, or determined under, any notice in writing p
 >      1. Subclause test
 >
 > provided that a Learner's result shall not be updated so as to lower that result.
+
+## Testing indenting
+
+1. List level 1
+  1. List level 2, 2 spaces
+
+1. List level 1
+   1. List level 2, 3 spaces
+

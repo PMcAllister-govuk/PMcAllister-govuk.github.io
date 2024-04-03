@@ -3,7 +3,7 @@ blockquote {
   border: 2px dashed #999;
 }
 
-ul ol {
+ul, ol {
   padding-inline-start: 1.2em;
   padding-left: -1.2em;
   list-style-position: inside;
@@ -25,4 +25,6 @@ ol > li > ol > li > ol {
 dt {
   font-size: 112%;
   font-weight: bold;
+  margin-top: 1.8em;
+  margin-bottom: 1.2em;
 }

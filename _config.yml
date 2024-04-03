@@ -57,8 +57,3 @@ markdown: redcarpet
 redcarpet:
   extensions:
     - lax_spacing
-
-kramdown:
-  list_indent: 2
-  toc_levels: 1..2
-  parse_block_html: true

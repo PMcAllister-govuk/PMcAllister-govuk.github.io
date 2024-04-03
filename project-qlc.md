@@ -30,9 +30,9 @@ The 30 July 2023 version of this document replaces all previous versions of Proj
 
 ## Qualification-level conditions
 
-### Condition Project1 – Compliance with content and assessment requirements{: #c1}
+### Condition Project1 – Compliance with content and assessment requirements
 
-Project1.1{: #c1_1}
+Project1.1
 : In respect of each project qualification which it makes available, an awarding organisation must comply with any requirements, and have regard to any guidance, in relation to content and assessment which may be published by Ofqual and revised from time to time.
 
 ### Condition Project2 – Titling

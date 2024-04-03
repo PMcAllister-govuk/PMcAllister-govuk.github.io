@@ -73,12 +73,9 @@ In respect of each project qualification which it makes available, the range of 
 1. the level of attainment demonstrated by Learners who have previously been awarded the qualification.
 
 
-1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
-   2. Different general conditions may be set for—
-      1. recognition of different descriptions of awarding bodies;
-      2. recognition in respect of different qualifications or different descriptions of qualifications;
-      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
-   3. Ofqual may revise the general conditions.
-   4. If Ofqual revises the general conditions it must publish them as revised.
-   5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+1. the Level of Demand of the assessments for that qualification,
+1. the level of attainment demonstrated in those assessments by an appropriately representative sample of Learners taking that qualification,
+1. the level of attainment demonstrated by Learners taking that qualification in a -
+   1. prior assessment (which was not for that qualification), whether or not that assessment was for a regulated qualification, or
+   1. prior qualification, whether or not that qualification was a regulated qualification, and
+1. the level of attainment demonstrated by Learners who have previously been awarded the qualification.

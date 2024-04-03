@@ -66,9 +66,9 @@ Project3.3
 1. the Level of Demand of the assessments for that qualification,
 1. the level of attainment demonstrated in those assessments by an appropriately representative sample of Learners taking that qualification,
 1. the level of attainment demonstrated by Learners taking that qualification in a -
-  1. prior assessment (which was not for that qualification), whether or not that assessment was for a regulated qualification, or
-  1. prior qualification, whether or not that qualification was a regulated qualification, and
-1. the level of attainment demonstrated by Learners who have previously been awarded the qualification.
+   1. prior assessment (which was not for that qualification), whether or not that assessment was for a regulated qualification, or
+   1. prior qualification, whether or not that qualification was a regulated qualification, and
+1. the level of attainment demonstrated by Learners who have previously been awarded the qualification
 
 ---
 

@@ -80,7 +80,6 @@ Project 8.7 – Application
 #### Project 8.7 – Application
 
 Until such date as is specified in, or determined under, any notice in writing published by Ofqual under this paragraph, Condition Project8.6 shall be replaced with –
-
 > The arrangements must, following the awarding organisation's notification of the outcome of the review of Moderation, provide for –
 > 
 > 1. marks and (where appropriate) results to be updated promptly to take into account any change in the outcome of Moderation,

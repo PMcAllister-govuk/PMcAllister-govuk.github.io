@@ -33,7 +33,7 @@ The 30 July 2023 version of this document replaces all previous versions of Proj
 ### Condition Project1 – Compliance with content and assessment requirements
 
 Project1.1
-: In respect of each project qualification which it makes available, an awarding organisation must comply with any requirements, and have regard to any guidance, in relation to content and assessment which may be published by Ofqual and revised from time to time.
+: In respect of each project qualification which it makes available, an awarding organisation must comply with any requirements, and have regard to any guidance, in relation to content and assessment which may be published by Ofqual and revised from time to time[^1].
 
 ### Condition Project2 – Titling
 
@@ -98,3 +98,27 @@ Until such date as is specified in, or determined under, any notice in writing p
 1. List level 1
    1. List level 2, 3 spaces
 
+### Requirements for key dates for assessments which are marked by a Centre [^2]
+
+An awarding organisation must ensure that the requirements in the table below are met in each case where the assessment is marked by a Centre. The table sets out the minimum timeframe within which the awarding organisation must allow a review/appeal to be requested. As above, provided a review/appeal is allowed to be requested in that timeframe, an awarding organisation is permitted to also provide an ‘accelerated service'.
+
+Stage | Description | Requirements
+-|-|-
+A | Date awarding organisation issues the outcome of its Moderation | None
+B | Date by which a request for a review of Moderation must be made [^3] | Centre making the request must be allowed at least four weeks following Stage A to make the request
+C | Date awarding organisation reports the outcome of the review of Moderation [^4] | None
+D | Date awarding organisation provides reasons for the outcome of the review [^5] | None
+E | Date by which an appeal of the outcome of Moderation must be requested [^6] | Centre making the request must be allowed at least four weeks following Stage C to make the request, and Centre making the request must be allowed at least two weeks following Stage D to make the request
+F | Awarding organisation reports outcome of the appeal [^7] | None
+
+---
+
+## Footnotes
+
+[^1]: Although we make every effort to info0rmed regulated organisations of changes to our rules, it is the responsibility of the organisation to ensure they are following the currently enforced rules.
+[^2]: The footnotes to the table are for information only.
+[^3]: Any date which is set must comply with Condition Project8.3, including complying with the requirements set out in the table.
+[^4]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review.
+[^10]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review and provide reasons.
+[^11]: Any date which is set must comply with Condition Project12.4, including complying with the requirements set out in the table.
+[^12]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete an appeal.

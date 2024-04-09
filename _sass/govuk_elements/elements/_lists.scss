@@ -43,3 +43,8 @@ ol > li > ol > li > ol {
     padding-left: 28px;
   }
 }
+
+// Fix footnotes back to numeric
+.footnotes ol {
+  list-style-type: decimal !important;
+}

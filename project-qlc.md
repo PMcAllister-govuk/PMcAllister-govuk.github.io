@@ -119,6 +119,6 @@ F | Awarding organisation reports outcome of the appeal [^7] | None
 [^2]: The footnotes to the table are for information only.
 [^3]: Any date which is set must comply with Condition Project8.3, including complying with the requirements set out in the table.
 [^4]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review.
-[^10]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review and provide reasons.
-[^11]: Any date which is set must comply with Condition Project12.4, including complying with the requirements set out in the table.
-[^12]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete an appeal.
+[^5]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review and provide reasons.
+[^6]: Any date which is set must comply with Condition Project12.4, including complying with the requirements set out in the table.
+[^7]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete an appeal.

@@ -115,7 +115,7 @@ F | Awarding organisation reports outcome of the appeal [^7] | None
 
 ## Footnotes
 
-[^1]: Although we make every effort to info0rmed regulated organisations of changes to our rules, it is the responsibility of the organisation to ensure they are following the currently enforced rules.
+[^1]: Although we make every effort to inform regulated organisations of changes to our rules, it is the responsibility of the organisation to ensure they are following the currently enforced rules.
 [^2]: The footnotes to the table are for information only.
 [^3]: Any date which is set must comply with Condition Project8.3, including complying with the requirements set out in the table.
 [^4]: Under Condition Project14, awarding organisations are required to have and take all reasonable steps to meet a target for the time it will take to complete a review.

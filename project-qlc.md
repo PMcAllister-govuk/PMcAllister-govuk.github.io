@@ -86,7 +86,7 @@ Until such date as is specified in, or determined under, any notice in writing p
 > 1. marks and (where appropriate) results to be updated promptly to correct the effect of any Marking Error notified to the Centre in accordance with this condition, and
 > 1. reasonable steps to be taken to identify any other assessment, in relation to which there has been a similar error and to update marks and (where appropriate) results promptly to correct the effect of any error which is identified,
 >    1. Subclause test
->      1. Subclause test
+>       1. Subsubclause test
 >
 > provided that a Learner's result shall not be updated so as to lower that result.
 
@@ -96,7 +96,13 @@ Until such date as is specified in, or determined under, any notice in writing p
   1. List level 2, 2 spaces
 
 1. List level 1
+
    1. List level 2, 3 spaces
+
+
+1. List level 1
+    1. List level 2, 4 spaces
+        1. List level 3, 4 spaces
 
 ### Requirements for key dates for assessments which are marked by a Centre [^2]
 

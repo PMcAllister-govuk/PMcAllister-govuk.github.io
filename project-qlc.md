@@ -142,7 +142,7 @@ Review and Appeal Arrangements
   1. List level 2, 2 spaces
 
 1. List level 1
-   1. List level 2, 3 spaces
+    1. List level 2, 4 spaces
 
 ### Requirements for key dates for assessments which are marked by a Centre
 

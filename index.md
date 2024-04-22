@@ -1,6 +1,7 @@
 ---
 title: Apprenticeships, Skills, Children and Learning Act 2009
 subtitle: Section 134
+GCR: "_includes/general/links.md"
 ---
 This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
 
@@ -22,3 +23,7 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 Revisions below:
 
 {% include revision.html %}
+
+{ GCR }
+
+[General Conditions of Recognition]

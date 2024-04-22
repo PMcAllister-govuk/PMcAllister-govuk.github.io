@@ -26,4 +26,5 @@ Revisions below:
 
 { GCR }
 
+
 [General Conditions of Recognition]
